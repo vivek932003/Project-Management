@@ -15,7 +15,7 @@ I am **undergrad student** at **UIUC** and I am **excited** to take this class!
 
 | Programming Language | Why I Like It |
 | ------------------- | ------------- |
-| TypeScript | A type-safe language that compiles to JavaScript |
+| TypeScript | A type-safe language that compiles to JavaScript, which is what I am most familiar with |
 | Python | Easy to learn and super powerful |
 | C++ | A little bit annoying to write, but performance is excellent |
 
