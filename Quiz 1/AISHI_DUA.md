@@ -3,4 +3,5 @@
 ### I am currently completing my undergraduate degree in Information Sciences
 
 
- <img src = "https://res.cloudinary.com/dtljonz0f/image/upload/shutterstock_329662223_ss_non-editorial_3_csm8lw" width = "500px" height = "500px">
+ <img src = "![image](https://github.com/user-attachments/assets/61f8788e-d87b-4691-8fb9-0afd4c60aa5d)
+" width = "500px" height = "500px">
