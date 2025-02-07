@@ -8,7 +8,7 @@ Bánh xèo -- Vietnamese omelet
 Bún bò Huế -- Vietnamese rice noodle dish with sliced beef 
 
 ### Here are some of the design platforms that I use! 
-| **Software Name**  | **What I Use It For** |
+| **Platform Name**  | **What I Use It For** |
 | --------- | ------------ |
 | Figma   | I use Figma for all of my UX projects where I have to create prototypes. I typically use this for designing apps and websites.  |
 | Canva   | I use Canva for more of my marketing and graphic design work for many of my RSO's.   |
