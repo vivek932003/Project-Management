@@ -9,7 +9,7 @@ Bún bò Huế -- Vietnamese rice noodle dish with sliced beef
 
 ### Here are some of the design platforms that I use! 
 | **Software Name**  | **What I Use It For** |
-| --------- | ----- | ------------ |
+| --------- | ------------ |
 | Figma   | I use Figma for all of my UX projects where I have to create prototypes. I typically use this for designing apps and websites.  |
-| Canva      | I use Canva for more of my marketing and graphic design work for many of my RSO's.   |
+| Canva   | I use Canva for more of my marketing and graphic design work for many of my RSO's.   |
 | Miro | I typically use Miro for UX Research to synthesize my findings and organize my project timeline.    |
