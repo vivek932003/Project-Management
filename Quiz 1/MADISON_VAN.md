@@ -2,5 +2,6 @@
 ##### I am a current Junior in Information Sciences on the HCI/UX pathway. 
 ### Here are some of my favorite dishes! 
 <br>
-(https://github.com/user-attachments/assets/0808f864-a07e-424c-874a-ebaeeb0bad3f)
+![image](https://github.com/user-attachments/assets/d6fe07a5-21df-44fd-af9f-02b723becfc6)
+
 
