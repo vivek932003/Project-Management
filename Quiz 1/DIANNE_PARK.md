@@ -30,4 +30,6 @@ Bulleted list (this is markdown)
   <li>oranges</li>
   <li>pears</li>
 </ul>
-```markdown
+```
+
+We can see no differences in visualization from the users' point of view, but the developer can experience that markdown is much more convenient than HTML. Of course, there are pros and cons in their ways. 
