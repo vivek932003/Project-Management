@@ -1,6 +1,7 @@
 ## Write your name on its own line:   
 
-Bradly Alicea  
+Bradly Alicea
+Dianne Park
 Shivam Patel    
 Srikar Manikonda  
 Madison Van
