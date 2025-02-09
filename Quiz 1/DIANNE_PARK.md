@@ -19,7 +19,15 @@ Here are some notes I took from the tutorials video for Quiz 1
 2. HTML
 3. ETC
 
-Bulleted list
+Bulleted list (this is markdown)
 * eggs
 * milk
 * cheese
+
+<p> Bulleted list (this is HTML): </p>
+<ul>
+  <li>apples</li>
+  <li>oranges</li>
+  <li>pears</li>
+</ul>
+
