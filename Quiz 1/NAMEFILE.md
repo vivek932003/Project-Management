@@ -4,8 +4,8 @@ Bradly Alicea
 Dianne Park  
 Shivam Patel    
 Srikar Manikonda  
-Madison Van
-
+Madison Van  
+Logan Patterson  
 Annie Wang
 
 Jade Carthans
