@@ -3,7 +3,8 @@
 Bradly Alicea  
 Dianne Park  
 Shivam Patel    
-Srikar Manikonda  
+Srikar Manikonda   
+Emma Guarni   
 Madison Van
 Abisay Salgado   
 Logan Patterson  
