@@ -5,7 +5,7 @@ I am inovolved in a few things on campus:
 - junior captian of the Illinois Cheer team
 - member of the Alpha Phi sorority
 
-## Here are some of my hobbies 
+## Here are some of my hobbies: 
 1. Cheerleading
 2. Reading
 3. Painting
@@ -32,4 +32,4 @@ I am inovolved in a few things on campus:
 | Maldives or Bahamas | Want to go | 
 | Denver, CO | Want to go | 
 
-# Thanks for getting to know me! Can't wait to learn in this class!!
+### Thanks for getting to know me! Can't wait to learn in this class!!
