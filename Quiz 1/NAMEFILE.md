@@ -3,10 +3,14 @@
 Bradly Alicea  
 Dianne Park  
 Shivam Patel    
-Srikar Manikonda  
-Madison Van
-
-Jade Carthans \
-Taylor Chan
-
-Elisha Longfellow
+Srikar Manikonda   
+Emma Guarni   
+Madison Van   
+Jade Carthans   
+Taylor Chan   
+Elisha Longfellow   
+Abisay Salgado   
+Logan Patterson  
+Annie Wang   
+Jade Carthans   
+Elisha Longfellow   
