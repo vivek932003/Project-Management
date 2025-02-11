@@ -5,7 +5,10 @@ Dianne Park
 Shivam Patel    
 Srikar Manikonda   
 Emma Guarni   
-Madison Van
+Madison Van   
+Jade Carthans   
+Taylor Chan   
+Elisha Longfellow   
 Abisay Salgado   
 Logan Patterson  
 Annie Wang   
