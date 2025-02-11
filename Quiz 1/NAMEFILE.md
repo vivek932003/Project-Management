@@ -5,5 +5,8 @@ Dianne Park
 Shivam Patel    
 Srikar Manikonda  
 Madison Van
-Abisay Salgado
-Elisha Longfellow
+Abisay Salgado   
+Logan Patterson  
+Annie Wang   
+Jade Carthans   
+Elisha Longfellow   
