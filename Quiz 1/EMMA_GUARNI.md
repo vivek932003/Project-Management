@@ -1,4 +1,4 @@
-# Hi Everyone! My name is Emma Guarni :blush:
+# Hi Everyone! My name is Emma Guarni
 
 I am a junior at UIUC and am majoring in **Information Science** with a minor in **Media**. 
 I am inovolved in a few things on campus:
