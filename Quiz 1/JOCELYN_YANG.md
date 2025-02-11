@@ -3,7 +3,7 @@
 Hello, my name is Jocelyn Yang.
 
 A table of my spring break plans.
-| Date       | Location            | Location         |
+| Date       | Location            | Reason           |
 |------------|----------------------|-----------------|
 | 2025-03-14 | Chicago, ORD          | Friends        |
 | 2025-03-16 | California, SFO       | Family         |
