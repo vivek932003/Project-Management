@@ -4,11 +4,9 @@ Bradly Alicea
 Dianne Park  
 Shivam Patel    
 Srikar Manikonda  
-Madison Van  
+Madison Van
+Abisay Salgado   
 Logan Patterson  
-Annie Wang
-
-Jade Carthans
-
-
-Elisha Longfellow
+Annie Wang   
+Jade Carthans   
+Elisha Longfellow   
