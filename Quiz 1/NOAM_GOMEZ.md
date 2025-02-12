@@ -8,7 +8,7 @@ I am an BSIS Major with a minor in computer science. Excited to meet you all.
 * I find hanging out with friends super relaxing
 * I like to play badminton in my free time to exercise
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY5dDV3YTg0b3k0NDl3bnJtZGFlM3pvZnlxc3c3N3ZoaDU5NTJ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XeY0cFOr2IWYGfJpQz/giphy.gif" alt="Badminton" width="400"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fisu.net%2Fsports%2Fbadminton%2F&psig=AOvVaw140gh7nqG35g6HnnrbfYMH&ust=1739478403253000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiT7ev8vosDFQAAAAAdAAAAABAE" alt="Badminton" width="400"/>
 <br>
 
 ## My favorite programming games and why I like them:
