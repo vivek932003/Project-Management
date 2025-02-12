@@ -3,9 +3,9 @@
 
 Bradly Alicea    
 Srikar Manikonda  
-=======
 Bradly Alicea  
-Dianne Park  
+Jocelyn Yang   
+Dianne Park   
 Shivam Patel    
 Srikar Manikonda   
 Emma Guarni   
@@ -19,4 +19,4 @@ Annie Wang
 Jade Carthans   
 Elisha Longfellow   
 Yu Xia     
-Rachel Chong
+Rachel Chong   
