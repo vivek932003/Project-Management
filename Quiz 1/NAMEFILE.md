@@ -17,8 +17,10 @@ Abisay Salgado
 Logan Patterson  
 Annie Wang   
 Jade Carthans   
-Elisha Longfellow   
+Elisha Longfellow    
+Yu Xia    
+Tony An   
 Yu Xia
 Kelly Tran   
 Yu Xia     
-Rachel Chong    
+Rachel Chong      
