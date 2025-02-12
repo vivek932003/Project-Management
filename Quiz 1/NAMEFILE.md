@@ -26,6 +26,6 @@ Tony An
 Yu Xia
 Kelly Tran   
 Yu Xia     
-Rachel Chong
+Rachel Chong  
 Noam Gomez
 >>>>>>> main
