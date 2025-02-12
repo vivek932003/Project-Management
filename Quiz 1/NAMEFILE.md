@@ -3,6 +3,9 @@
 
 Bradly Alicea    
 Srikar Manikonda  
+<<<<<<< main
+Nabeel Bashir
+=======
 Bradly Alicea  
 Jocelyn Yang   
 Dianne Park   
@@ -24,3 +27,4 @@ Yu Xia
 Kelly Tran   
 Yu Xia     
 Rachel Chong      
+>>>>>>> main
