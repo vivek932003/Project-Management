@@ -7,7 +7,8 @@ Srikar Manikonda
 Nabeel Bashir
 =======
 Bradly Alicea  
-Jocelyn Yang   
+Jocelyn Yang
+Jakub Szumny
 Dianne Park   
 Shivam Patel    
 Srikar Manikonda   
