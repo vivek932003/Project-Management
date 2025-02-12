@@ -23,9 +23,9 @@ Jade Carthans
 Elisha Longfellow    
 Yu Xia    
 Tony An   
-Yu Xia
+Yu Xia    
 Kelly Tran   
 Yu Xia     
-Rachel Chong
-Grace Requeno
+Rachel Chong    
+Grace Requeno    
 >>>>>>> main
