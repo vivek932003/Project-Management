@@ -36,3 +36,4 @@ Anantya Kasturi
 Harshitha Vetrivel
 
 Zhuokai Wu
+Diego Navarro
