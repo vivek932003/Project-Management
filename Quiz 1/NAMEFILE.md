@@ -27,5 +27,5 @@ Yu Xia
 Rachel Chong    
 Grace Requeno    
 Rachel Chong  
-Noam Gomez
-Anantya Kasturi
+Noam Gomez  
+Anantya Kasturi  
