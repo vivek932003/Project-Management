@@ -4,7 +4,10 @@
 **Bold text**
 # Testing the text
 ![alt text](images.png)
- <img src="images.png" alt="text">
+<figure>
+    <img src="images.png" alt="text">
+    <figcaption>This is an image of Markdown</figcaption>
+</figure>
 
 | Name    | Age | Occupation |
 |---------|-----|-----------|
