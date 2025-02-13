@@ -10,9 +10,10 @@ I am a senior majoring in Information Sciences! I'm also a part of the Thaakat F
 
 ## Pets in my household
 
-| Pets       | Name                      |
-|------------|--------------------------------|
-| **Cat**    | His name is Max         ||
+| Pets    | Name  |
+|---------|-------|
+| **Cat** | Max   |
+
 
 
 <p align="center">
