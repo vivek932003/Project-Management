@@ -32,3 +32,4 @@ Grace Requeno
 Rachel Chong  
 Noam Gomez  
 Anantya Kasturi   
+Colin Bertrand
