@@ -17,4 +17,4 @@
 | Rukayah   | 22  | UIS  |
 | Haizam     | 19  | Student  |
 | Ahamad | 16  | Student   |
-| Ahamad | 9  | Student   |
+| Salman | 9  | Student   |
