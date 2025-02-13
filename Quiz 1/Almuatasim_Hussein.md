@@ -4,6 +4,7 @@
 **Bold text**
 # Testing the text
 ![alt text](images.png)
+ <img src="images.png" alt="Italian Trulli">
 
 | Name    | Age | Occupation |
 |---------|-----|-----------|
