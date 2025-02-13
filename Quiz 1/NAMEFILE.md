@@ -11,6 +11,7 @@ Dianne Park
 Shivam Patel    
 Srikar Manikonda   
 Emma Guarni   
+Kinza Chouhdry 
 Madison Van   
 Jade Carthans   
 Taylor Chan   
