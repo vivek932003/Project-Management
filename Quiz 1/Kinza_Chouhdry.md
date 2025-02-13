@@ -8,10 +8,11 @@ I am a senior majoring in Information Sciences! I'm also a part of the Thaakat F
 - I enjoy **painting** 
 - I’m interested in **law and technology**
 
-## Topics I’m Learning
+## Pets in my household
 
-| Topic       | Description                      |
+| Pets       | Name                      |
 |------------|--------------------------------|
-| **Git**    | Version control system         |
-| **Markdown** | Formatting language for GitHub |
-| **Forking** | Creating a copy of a repo      |
+| **Cat**    | His name is Max         ||
+
+
+![GitHub Logo](![IMG_5295](https://github.com/user-attachments/assets/81f46fa5-5775-48d6-8f59-222ea6fb4843))
