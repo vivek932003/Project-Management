@@ -9,6 +9,9 @@
     <figcaption>This is an image of Markdown</figcaption>
 </figure>
 
+
+
+
 | Name    | Age | Occupation |
 |---------|-----|-----------|
 | Dylan   | 21  | Student  |
