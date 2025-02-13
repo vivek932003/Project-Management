@@ -18,6 +18,6 @@ I am a senior majoring in Information Sciences! I'm also a part of the Thaakat F
 <p align="center">
   <img src="https://render.fineartamerica.com/images/rendered/default/poster/6/8/break/images/artworkimages/medium/3/stuart-little-bo-kev.jpg" width="200">
   <br>
-  <em>This is my uploaded image.</em>
+  <em>This is one of my favorite movies!</em>
 </p>
 
