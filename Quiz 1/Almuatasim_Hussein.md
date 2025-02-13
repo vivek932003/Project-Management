@@ -5,8 +5,5 @@
 # Testing the text
 ![alt text](images.png)
 
-
-<figure>
-  <img src="https://commons.wikimedia.org/wiki/File:Ice-cream.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
-</figure>
+![Placeholder Image](https://via.placeholder.com/150)
+*Figure 1: Example Placeholder Image*
