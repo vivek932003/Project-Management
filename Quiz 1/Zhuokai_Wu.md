@@ -3,9 +3,9 @@
 I am an undergraduate student and I am excited to introduce myself!
 
 ## About me:
-- I like to make music in my free time
-- I enjoy fitness and sports activities
-- My favorite music genres are rap, electronic, and melodic music
+1.I like to make music in my free time
+2.I enjoy fitness and sports activities
+3.My favorite music genres are rap, electronic, and melodic music
 
 <img src="https://github.com/user-attachments/assets/a1a10f4e-4c0c-4455-9f3f-b76d2045a5bd" alt="Music Production" width="500">
 
