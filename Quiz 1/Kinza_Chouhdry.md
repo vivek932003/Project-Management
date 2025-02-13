@@ -12,7 +12,7 @@ I am a senior majoring in Information Sciences! I'm also a part of the Thaakat F
 
 | Pets    | Name  |
 |---------|-------|
-| **Cat** | Max   |
+| I have a **Cat** | His name is **Max**   |
 
 
 
