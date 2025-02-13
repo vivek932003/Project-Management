@@ -25,8 +25,10 @@ Tony An
 Yu Xia    
 Kelly Tran   
 Yu Xia     
+Rachel Chong      
+Christy Goon     
 Rachel Chong    
 Grace Requeno    
 Rachel Chong  
 Noam Gomez  
-Anantya Kasturi  
+Anantya Kasturi   
