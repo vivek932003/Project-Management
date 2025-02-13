@@ -1,4 +1,4 @@
-### Hi! I'm Anantya Kasturi  
+# Hi! I'm Anantya Kasturi  
 I'm a junior in IS+DS and can't wait to learn more about Project Management!  
 
 ## Some random facts about me:  
