@@ -3,11 +3,10 @@
 
 Bradly Alicea    
 Srikar Manikonda  
-<<<<<<< main
 Nabeel Bashir
-=======
 Bradly Alicea  
 Jocelyn Yang   
+Jakub Szumny   
 Dianne Park   
 Shivam Patel    
 Srikar Manikonda   
@@ -23,9 +22,13 @@ Jade Carthans
 Elisha Longfellow    
 Yu Xia    
 Tony An   
-Yu Xia
+Yu Xia    
 Kelly Tran   
 Yu Xia     
 Rachel Chong      
 Christy Goon     
->>>>>>> main
+Rachel Chong    
+Grace Requeno    
+Rachel Chong  
+Noam Gomez  
+Anantya Kasturi   
