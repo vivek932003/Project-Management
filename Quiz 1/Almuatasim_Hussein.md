@@ -6,7 +6,8 @@
 
 <figure>
     <img src="images.png" alt="text">
-    <figcaption>This is an image of Markdown</figcaption> </figure>
+    <figcaption>This is an image of Markdown
+    </figcaption> </figure>
 
 
 
