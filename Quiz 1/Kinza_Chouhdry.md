@@ -8,3 +8,10 @@ I am a senior majoring in Information Sciences! I'm also a part of the Thaakat F
 - I enjoy **painting** 
 - I’m interested in **law and technology**
 
+## Topics I’m Learning
+
+| Topic       | Description                      |
+|------------|--------------------------------|
+| **Git**    | Version control system         |
+| **Markdown** | Formatting language for GitHub |
+| **Forking** | Creating a copy of a repo      |
