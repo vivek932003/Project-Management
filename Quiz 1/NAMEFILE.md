@@ -2,8 +2,8 @@
 
 Bradly Alicea    
 Srikar Manikonda  
-Nabeel Bashir
-Bradly Alicea  
+Nabeel Bashir    
+Almuatasim Hussein   
 Jocelyn Yang   
 Jakub Szumny   
 Dianne Park   
