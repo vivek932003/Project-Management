@@ -33,6 +33,7 @@ Rachel Chong
 Grace Requeno     
 Noam Gomez  
 Anantya Kasturi   
+Colin Bertrand    
 Harshitha Vetrivel
 Jacob Bobiek
 Zhuokai Wu    
@@ -41,4 +42,4 @@ Harshitha Vetrivel
 Negus Abebe   
 Zhuokai Wu
 Diego Navarro   
-Negus Abebe   
+Negus Abebe    
