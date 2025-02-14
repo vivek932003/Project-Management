@@ -1,6 +1,5 @@
 ## Write your name on its own line:   
 
-
 Bradly Alicea    
 Srikar Manikonda  
 Nabeel Bashir
@@ -9,6 +8,9 @@ Jocelyn Yang
 Jakub Szumny   
 Dianne Park   
 Shivam Patel    
+Srikar Manikonda  
+Madison Van  
+Aishi Dua    
 Srikar Manikonda   
 Emma Guarni   
 Kinza Chouhdry 
@@ -24,17 +26,19 @@ Elisha Longfellow
 Yu Xia    
 Tony An   
 Yu Xia    
-Kelly Tran   
-Yu Xia     
+Kelly Tran       
 Rachel Chong      
 Christy Goon     
 Rachel Chong    
-Grace Requeno    
-Rachel Chong  
+Grace Requeno     
 Noam Gomez  
 Anantya Kasturi   
 Harshitha Vetrivel
 Jacob Bobiek
+Zhuokai Wu    
+Diego Navarro   
+Harshitha Vetrivel   
+Negus Abebe   
 Zhuokai Wu
-Diego Navarro
-
+Diego Navarro   
+Negus Abebe   
