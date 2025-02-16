@@ -1,7 +1,7 @@
 # Devansh Kumar
 
 ## Introduction
-This is my submission for Quiz 1: Introduction to GitHub and Version Control.
+This is my submission for Quiz 1: Introduction to GitHub and Version Control for IS 340.
 
 ---
 
