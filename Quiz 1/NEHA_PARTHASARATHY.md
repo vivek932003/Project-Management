@@ -7,7 +7,7 @@ I am currently a junior majoring in Information Science + Data Science with a mi
 
 ![I love getting Strawberry Matcha!](https://feelgoodfoodie.net/wp-content/uploads/2023/04/Iced-Strawberry-Matcha-Latte-14.jpg)
 
-##Ranking the best places to get food on campus 
+## Ranking the best places to get food on campus 
 |Ranking | Place| 
 | :-----: | :---: |
 | 1 | Bangkok Thai |
