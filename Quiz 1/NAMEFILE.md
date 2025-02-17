@@ -1,6 +1,7 @@
 ## Write your name on its own line:   
 
-Bradly Alicea     
+Bradly Alicea   
+Joseph Choi   
 Srikar Manikonda  
 Nabeel Bashir    
 Almuatasim Hussein   
@@ -49,4 +50,5 @@ Kohta Shimbara
 Ahmad Sawwan   
 Fabian Martinez   
 Devansh Kumar   
-Dylan Lee
+Dylan Lee   
+Gabriela Sandschafer   
