@@ -52,3 +52,4 @@ Fabian Martinez
 Devansh Kumar   
 Dylan Lee   
 Gabriela Sandschafer   
+Julian Gutierrez
