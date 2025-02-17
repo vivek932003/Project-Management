@@ -14,9 +14,4 @@ I hope you enjoy getting to know me a little more!!!
 ## Me and Zlatan!
 ![Me and Zlatan!](IMG_2468.jpeg)
 
-<figure>
-    <img src="IMG_2468" alt="text">
-    <figcaption>test try
-    </figcaption> </figure>
-
-
+<img src="IMG_2468.jpeg" alt="Me and Zlatan!" width="300">
