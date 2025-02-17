@@ -10,6 +10,7 @@ I hope you enjoy getting to know me a little more
 - I speak **two languages fluently** (English and Portuguese) and learned the basics of a German and French when living in Switzerland
 - The most famous person I have met is **Zlatan Ibrahimović** (famous soccer player) - in a small town in Italy by pure coincidence!! 
 
-   
+
+## Me and Zlatan!
 ![Me and Zlatan!](IMG_2468.jpeg)  
 
