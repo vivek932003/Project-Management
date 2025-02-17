@@ -1,5 +1,5 @@
 # Hi! My name is Gabriela Sandschafer!
-I am currently a senior in Information Science + Data Science! 
+I am currently a senior in Information Science + Data Science with a minor in Business! 
 I will be graduating in 3 years and then pursing my masters in Technology Managagement at the Gies College of Business.
 
 ## Fun Facts
