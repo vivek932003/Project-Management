@@ -14,3 +14,8 @@ I hope you enjoy getting to know me a little more!!!
 ## Me and Zlatan!
 
 <img src="IMG_2468.jpeg" alt="Me and Zlatan!" width="300">
+
+
+## My Favorite Vacations
+
+
