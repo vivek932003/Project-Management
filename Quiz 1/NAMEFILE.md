@@ -44,9 +44,8 @@ Negus Abebe
 Zhuokai Wu
 Diego Navarro   
 Negus Abebe
-Tarun Bathini
-Ahmad Sawwan
-Fabian Martinez
-
-
-Devansh Kumar
+Tarun Bathini   
+Kohta Shimbara   
+Ahmad Sawwan   
+Fabian Martinez   
+Devansh Kumar   
