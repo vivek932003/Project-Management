@@ -18,4 +18,10 @@ I hope you enjoy getting to know me a little more!!!
 
 ## My Favorite Vacations
 
+| Place | When    | Why    |  
+| :-----: | :---: | :---: |  
+| Japan | when   | why   |  
+| Maldives | when   | why   |  
+| Tanzania | when   | why   |  
+
 
