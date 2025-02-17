@@ -22,6 +22,6 @@ I hope you enjoy getting to know me a little more!!!
 | :-----: | :---: | :---: |  
 |  Japan  |  April 2017    | Toyko and Kyoto was unforgettable because of the breathtaking cherry blossoms, rich culture, and incredible food everything. It was so different from everything else I had seen - so vibrant, with beautiful temples!   |  
 |  Maldives  | March 2020    | The Maldives felt like a tropical paradise! I fell in love with its crystal clear waters, white sandy beaches, and amazing marine life. I will never forget snorkeling with a whale shark and scuba diving by the reefs. It one of the most relaxing vacations ever - because of that we ended up going again!    |  
-|  Tanzania  | July 2023    | Going on a safari in Tanzania was an incredible experience, seeing lions, elephants, giraffes, and many more animals in their natural habitat. The breathtaking landscapes of the Serengeti and the vibrant culture made this trip the most amazing trip ever - I even got to witness The Great Migration  |  
+|  Tanzania  | July 2023    | Going on a safari in Tanzania was an incredible experience, seeing lions, elephants, giraffes, and many more animals in their natural habitat. The breathtaking landscapes of the Serengeti and the vibrant culture made this trip the most amazing trip ever - I even got to witness The Great Migration!!!  |  
 
 
