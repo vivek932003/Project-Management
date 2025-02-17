@@ -20,8 +20,8 @@ I hope you enjoy getting to know me a little more!!!
 
 | Place | When    | Why    |  
 | :-----: | :---: | :---: |  
-|  Japan  |  April 2017   | Toyko and Kyoto was unforgettable because of the breathtaking cherry blossoms, rich culture, and incredible food everything. It was so different from everything else I had seen - so vibrant, with beautiful temples and greenery   |  
-| Maldives | March 2020   | why   |  
-| Tanzania | July 2023   | why   |  
+|  Japan  |  April 2017    | Toyko and Kyoto was unforgettable because of the breathtaking cherry blossoms, rich culture, and incredible food everything. It was so different from everything else I had seen - so vibrant, with beautiful temples   |  
+|  Maldives  | March 2020    | why   |  
+|  Tanzania  | July 2023    | why   |  
 
 
