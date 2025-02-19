@@ -10,7 +10,6 @@ Jocelyn Yang
 Jakub Szumny   
 Dianne Park   
 Shivam Patel    
-Madison Van   
 Aishi Dua    
 Emma Guarni   
 Kinza Chouhdry   
