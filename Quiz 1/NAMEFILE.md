@@ -20,8 +20,7 @@ Taylor Chan
 Elisha Longfellow      
 Abisay Salgado    
 Logan Patterson   
-Annie Wang    
-Jade Carthans         
+Annie Wang         
 Yu Xia    
 Tony An   
 Kelly Tran       
