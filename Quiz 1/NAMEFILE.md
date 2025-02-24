@@ -1,5 +1,4 @@
 ## Write your name on its own line:   
-
 Megh Brahmbhatt   
 Bradly Alicea   
 Joseph Choi   
@@ -47,4 +46,3 @@ Gabriela Sandschafer
 Julian Gutierrez   
 Jenny Dong
 Matthew Van Duyn
-
