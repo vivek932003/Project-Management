@@ -44,8 +44,8 @@ Devansh Kumar
 Dylan Lee     
 Gabriela Sandschafer      
 Julian Gutierrez   
-Jenny Dong
-Bowei Wang
+Jenny Dong   
+Bowei Wang   
 Matthew Van Duyn
 
 
