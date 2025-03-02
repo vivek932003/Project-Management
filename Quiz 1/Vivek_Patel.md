@@ -5,6 +5,6 @@ THE DARK KNIGHT
 2. Bane
 3. Joker
 
--Gotham City
--Arkham
--Chicago
+- Gotham City
+- Arkham
+- Chicago
