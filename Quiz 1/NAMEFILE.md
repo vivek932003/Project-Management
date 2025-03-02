@@ -47,7 +47,7 @@ Julian Gutierrez
 Jenny Dong   
 Bowei Wang   
 Matthew Van Duyn
-
+Vivek Patel
 Shivani Ravikumar
 
 Laiba Khan
